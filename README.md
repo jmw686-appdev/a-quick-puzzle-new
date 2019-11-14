@@ -1,6 +1,6 @@
 # A Quick Puzzle
 
-A quick puzzle and a lesson on clientside storage (a.k.a. cookies).
+A quick puzzle and a lesson on clientside storage.
 
  1. First, visit the target and try to solve the puzzle:
 
