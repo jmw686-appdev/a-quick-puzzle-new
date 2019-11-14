@@ -73,5 +73,6 @@ group :production do
   gem 'rails_12factor'
 end
 
+gem 'solargraph'
 gem 'devise'
 gem 'activeadmin', '2.2.0'
